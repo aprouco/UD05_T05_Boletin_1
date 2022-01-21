@@ -8,6 +8,7 @@
 </head>
 <body>
     <?php
+
     $horario = array (
         '8:50 - 9:40' => array('IAW','SAD','ASXBD','ASXBD','IAW'),
         '9:40 - 10:30' => array('IAW','SAD','EIE','ASXBD','SRI'),
@@ -38,6 +39,8 @@
     }
 
     echo "</table>";
+
+    
     ?>
 </body>
 </html>
